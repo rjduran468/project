@@ -1,0 +1,6 @@
+Hamburger
+Pizza
+French Fries
+Ice Cream
+Steak
+Chicken
